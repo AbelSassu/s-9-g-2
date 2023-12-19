@@ -12,7 +12,7 @@ function App() {
                 <MyNavbar />
             </header>
             <main>
-                <MyHero />
+                <MyHero/>
                 <MyBooks />
             </main>
 
